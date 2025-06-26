@@ -10,7 +10,7 @@ I’m a DevOps Engineer passionate about building reliable cloud-native infrastr
 - 🌱 Still learning, still debugging — one pod at a time
 
 ### 🔗 Links
-- 🌐 [Portfolio Website](https://badal773.github.io/portfolio/)
+- 🌐 [Portfolio](https://badal773.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/badalprusty/)
 
 
